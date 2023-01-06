@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/demo/react/finsa/static/css/main.2f480e33.chunk.css",
+    "main.js": "/demo/react/finsa/static/js/main.108642cf.chunk.js",
+    "main.js.map": "/demo/react/finsa/static/js/main.108642cf.chunk.js.map",
+    "runtime-main.js": "/demo/react/finsa/static/js/runtime-main.4b19a390.js",
+    "runtime-main.js.map": "/demo/react/finsa/static/js/runtime-main.4b19a390.js.map",
+    "static/css/2.9d91f697.chunk.css": "/demo/react/finsa/static/css/2.9d91f697.chunk.css",
+    "static/js/2.8c47113c.chunk.js": "/demo/react/finsa/static/js/2.8c47113c.chunk.js",
+    "static/js/2.8c47113c.chunk.js.map": "/demo/react/finsa/static/js/2.8c47113c.chunk.js.map",
+    "index.html": "/demo/react/finsa/index.html",
+    "precache-manifest.c858d43c07eeeb71353e8610a3f1bd6c.js": "/demo/react/finsa/precache-manifest.c858d43c07eeeb71353e8610a3f1bd6c.js",
+    "service-worker.js": "/demo/react/finsa/service-worker.js",
+    "static/css/2.9d91f697.chunk.css.map": "/demo/react/finsa/static/css/2.9d91f697.chunk.css.map",
+    "static/css/main.2f480e33.chunk.css.map": "/demo/react/finsa/static/css/main.2f480e33.chunk.css.map",
+    "static/js/2.8c47113c.chunk.js.LICENSE.txt": "/demo/react/finsa/static/js/2.8c47113c.chunk.js.LICENSE.txt",
+    "static/media/03.png": "/demo/react/finsa/static/media/03.763a93be.png",
+    "static/media/style.css": "/demo/react/finsa/static/media/13.a126ec2c.png",
+    "static/media/07.png": "/demo/react/finsa/static/media/07.fdd9f3ac.png",
+    "static/media/08.png": "/demo/react/finsa/static/media/08.32d111e1.png",
+    "static/media/16.png": "/demo/react/finsa/static/media/16.f2b96a0f.png",
+    "static/media/flaticon.css": "/demo/react/finsa/static/media/Flaticon.dc5556fe.ttf",
+    "static/media/font-awesome.min.css": "/demo/react/finsa/static/media/fa-solid-900.d4e4b058.svg",
+    "static/media/play.svg": "/demo/react/finsa/static/media/play.8f742c21.svg",
+    "static/media/slick-theme.css": "/demo/react/finsa/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b19a390.js",
+    "static/css/2.9d91f697.chunk.css",
+    "static/js/2.8c47113c.chunk.js",
+    "static/css/main.2f480e33.chunk.css",
+    "static/js/main.108642cf.chunk.js"
+  ]
+}
